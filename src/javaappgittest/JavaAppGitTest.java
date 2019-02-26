@@ -18,6 +18,7 @@ public class JavaAppGitTest {
         // TODO code application logic here
         System.out.println("Hello Netbeans");
         System.out.println("Hello");
+        System.out.println("Hi from Git");
     }
     
 }
