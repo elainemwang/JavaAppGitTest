@@ -7,7 +7,7 @@ package javaappgittest;
 
 /**
  *
- * @author elainewang
+ * @author zhongc9387
  */
 public class JavaAppGitTest {
 
@@ -16,6 +16,10 @@ public class JavaAppGitTest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hello Netbeans");
+        System.out.println("Hello");
+        System.out.println("Hi from Git");
+        System.out.println("elaine");
     }
     
 }
