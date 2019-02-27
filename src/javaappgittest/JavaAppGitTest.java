@@ -7,7 +7,7 @@ package javaappgittest;
 
 /**
  *
- * @author zhongc9387
+ * @author elainewang
  */
 public class JavaAppGitTest {
 
